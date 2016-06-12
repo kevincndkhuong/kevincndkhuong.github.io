@@ -63,7 +63,7 @@ Senior Software Engineer (.NET)
 
 > | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  C#, MSSQL | ASP.NET MVC & Google chart 
+> | Skill Set 		| - Language/Framework:  C#, MSSQL, ASP.NET MVC & Google chart 
 > |					| - Tools : Visual Studio, MSSQL, TFS, Azure
 > |					| - Environments : IIS, Window Server on cloud, IE/FF/Chrome
 > |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
