@@ -61,8 +61,9 @@ Senior Software Engineer (.NET)
 
 > **Intergration Project System (Internal)** : A internal projects manage system for company
 
+> | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
-> | Skill Set 		| - Language/Framework:  C#, MSSQL, ASP.NET MVC & Google chart 
+> | Skill Set 		| - Language/Framework:  C#, MSSQL | ASP.NET MVC & Google chart 
 > |					| - Tools : Visual Studio, MSSQL, TFS, Azure
 > |					| - Environments : IIS, Window Server on cloud, IE/FF/Chrome
 > |	Position		| - Senior Software Engineer (Frontend & BatchJob & Database)
@@ -78,6 +79,7 @@ Senior Software Engineer
 
 > **Frontier (LicenceOne)** : A goverment licence manage system 
 
+> | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
 > | Skill Set 		| - Language/Framework:  Java Spring, Quartz
 > |					| - Tools : QA tool, Eclipse, IBM Studio DB2 
@@ -96,6 +98,7 @@ Senior Application Consultant - Key Member
 
 > **Fortune** : A betting exchange system 
 
+> | 				| 																|
 > | :-------------- | :------------------------------------------------------------ |
 > | Skill Set 		| - Language/Framework:  Maven, J2EE, Spring, GWT, Javascipt, HTML5/CSS  
 > |					| - Tools : Redmine, Jenkins, SVN, Netbeans
@@ -117,6 +120,7 @@ Teacher
 
 > **Java core & J2EE** : teach both Java core & Java Web for students
 
+> | 						| 								|
 > | :----------------------| :--------- |
 > | Skill Set 		| - Program language/Framework: Java  |
 > |					| - Tools : Microsoft Power point, Netop School
@@ -136,6 +140,7 @@ Senior Application Consultant – Key Member
 
 > **E-banking** : is an electronic banking project including several services such as Internet, SMS, Mobile, Smartphone, and SIM card ….Its functions are transfer accounts, payment bills via banking system and other systems.
 
+> | 						| 								|
 > | :----------------------| :--- |
 > | Skill Set 		| - Language/Framework: EJB, RMI, JMS, Web Services, EIP, Spring, Hibernate/JPA, BPM Workflow(Activity), ISO8583, Web Service, Socket
 > |					| - Tools : Jira, Hubson+Sonar, SVN, Eclipse/Soap UI
@@ -156,6 +161,7 @@ Senior Application Consultant – Key Member
 
 > **CMMi Level 3** : build software process for company
 
+> | 				|							 			|
 > | :-------------- | :------------------------------------ |
 > | Skill Set 		| - Language/Framework : Java Swing, Groovy, Selenium |
 > |					| - Tools : Alfresco DMS, Astah, Microsoft Word, Excel
@@ -175,6 +181,7 @@ Analysis Programmer
 
 > Enhancement and Maintain CAS : developing system is called as CAS (Client Admin System) on Oracle PLSQL
 
+> | 				|				 |
 > | :-------------- | :--- |
 > | Skill Set 		| - Language/Framework : Java, PLSQL, HTML, Foxpro  |
 > |					| - Tools : Source control: share directories, Tracker : Excel, IDE : JDeveloper + Oracle Form & Report 
